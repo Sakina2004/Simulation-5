@@ -1,0 +1,36 @@
+﻿@model WorkerUpdateVm
+<h1>Update Person</h1>
+<hr />
+<div class="row">
+    <div class=" col-md-4">
+<form asp-action="Update" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+   <div class="form-group">
+        <label asp-for="Fullname" class="control-label">Fullname</label>
+        <input asp-for="Fullname" class="form-control">
+        <span asp-validation-for="Fullname" class="text-danger"></span>
+    </div>
+            
+      <div class="form-group">
+        <label for="PositionId" asp-for="PositionId">Position</label>
+     <select asp-for="PositionId" class="alert-info">
+        @foreach(var item in ViewBag.Positions)
+        {
+                <option value="@item.Id">@item.Fullname</option>
+        }
+        </select>
+        <div class="form-group">
+             <label asp-for="ImagePath" class="control-label"></label>
+                <input asp-for="ImagePath" class="form-control" />
+                <span asp-validation-for="ImagePath" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+    <input type="submit" value="Save" class="btn btn-primary"></input>
+    </div>
+    </form>
+    <div class="form-group">
+    </div>
+    </div>
+</div>
+        <a asp-action="Index">Back to List</a>
+</div>

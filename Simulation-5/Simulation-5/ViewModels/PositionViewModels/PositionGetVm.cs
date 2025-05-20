@@ -3,7 +3,7 @@
     public class PositionGetVm
     {
         public  int  Id { get; set; }
-        public string  fullname { get; set; }
+        public string  Fullname { get; set; }
         public  string  ImagePath { get; set; }
     }
 }

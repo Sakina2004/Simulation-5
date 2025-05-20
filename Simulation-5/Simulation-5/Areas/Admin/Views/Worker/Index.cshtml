@@ -1,5 +1,6 @@
 ﻿@using Simulation_5.Models
 
+
 @model List<WorkerGetVm>
 @{
     int order = 1;
@@ -23,12 +24,12 @@
                 <td>@worker.Fullname</td>
                 <td>@worker.Description</td>
                 <td><img src="~images/@worker.ImagePath /" /></td>
-
-                <td>
+   <td>
                     <a class="btn btn-primary" asp-action="Update" asp-route-id="@worker.Id">Update</a>
                     <a class="btn btn-danger" asp-action="Delete" asp-route-id="@worker.Id">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
-    </table>
+    </table> 
+  

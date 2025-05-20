@@ -7927,23 +7927,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\I novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\comp0625\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I novbe\\Desktop\\Sakina\\Simulation-5\\Simulation-5\\Simulation-5\\Simulation-5.csproj",
+      "projectUniqueName": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Simulation-5.csproj",
       "projectName": "Simulation-5",
-      "projectPath": "C:\\Users\\I novbe\\Desktop\\Sakina\\Simulation-5\\Simulation-5\\Simulation-5\\Simulation-5.csproj",
-      "packagesPath": "C:\\Users\\I novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I novbe\\Desktop\\Sakina\\Simulation-5\\Simulation-5\\Simulation-5\\obj\\",
+      "projectPath": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Simulation-5.csproj",
+      "packagesPath": "C:\\Users\\comp0625\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\I novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\comp0625\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7952,7 +7952,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7965,7 +7964,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -8017,7 +8022,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

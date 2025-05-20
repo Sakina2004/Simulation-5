@@ -30,12 +30,12 @@ namespace Simulation_5.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("PositionId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("fullname")
+                    b.Property<string>("Fullname")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("PositionId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

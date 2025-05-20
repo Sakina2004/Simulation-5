@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\viewmodels\\workerviewmodels\\workergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\viewmodels\\workerviewmodels\\workergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\viewmodels\\positionviewmodels\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\viewmodels\\positionviewmodels\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\viewmodels\\workerviewmodels\\workerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\viewmodels\\workerviewmodels\\workerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\migrations\\20250520152225_changecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\migrations\\20250520152225_changecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\viewmodels\\workerviewmodels\\workercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\viewmodels\\workerviewmodels\\workercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|c:\\users\\comp0625\\desktop\\simulation-5\\simulation-5\\simulation-5\\migrations\\20250520090435_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E8D1DA-5740-45F9-8971-D0E67C34E5E7}|Simulation-5\\Simulation-5.csproj|solutionrelative:simulation-5\\migrations\\20250520090435_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation-5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:25:52.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:19:10.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:19:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\appsettings.json",
+              "RelativeDocumentMoniker": "Simulation-5\\appsettings.json",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\appsettings.json",
+              "RelativeToolTip": "Simulation-5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T20:12:25.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Program.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Program.cs",
+              "RelativeToolTip": "Simulation-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:10:14.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T15:54:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250520152225_ChangeColumns.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Migrations\\20250520152225_ChangeColumns.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Migrations\\20250520152225_ChangeColumns.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Migrations\\20250520152225_ChangeColumns.cs",
+              "RelativeToolTip": "Simulation-5\\Migrations\\20250520152225_ChangeColumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:22:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PositionGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\PositionViewModels\\PositionGetVm.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\ViewModels\\PositionViewModels\\PositionGetVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\PositionViewModels\\PositionGetVm.cs",
+              "RelativeToolTip": "Simulation-5\\ViewModels\\PositionViewModels\\PositionGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:18:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Worker.cs",
+              "RelativeToolTip": "Simulation-5\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:57:38.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:53:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Position.cs",
+              "RelativeToolTip": "Simulation-5\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:18:19.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:18:59.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkerCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerCreateVm.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerCreateVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerCreateVm.cs",
+              "RelativeToolTip": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerCreateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:15:39.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simulation-5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:29:42.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:57:20.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation-5\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:54:38.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Simulation-5\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:00:19.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerGetVm.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerGetVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerGetVm.cs",
+              "RelativeToolTip": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:53:00.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250520090435_created.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Migrations\\20250520090435_created.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\Migrations\\20250520090435_created.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Migrations\\20250520090435_created.cs",
+              "RelativeToolTip": "Simulation-5\\Migrations\\20250520090435_created.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:08:01.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:03:13.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeDocumentMoniker": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeToolTip": "Simulation-5\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:01:52.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkerUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerUpdateVm.cs",
+              "RelativeDocumentMoniker": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerUpdateVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation-5\\Simulation-5\\Simulation-5\\ViewModels\\WorkerViewModels\\WorkerUpdateVm.cs",
+              "RelativeToolTip": "Simulation-5\\ViewModels\\WorkerViewModels\\WorkerUpdateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:57:42.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
