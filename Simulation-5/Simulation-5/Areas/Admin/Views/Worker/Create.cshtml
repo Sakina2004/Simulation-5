@@ -20,7 +20,7 @@
      <select asp-for="PositionId" class="alert-info">
         @foreach(var item in ViewBag.Positions)
         {
-            <option value="@item.Id">@item.Name</option>
+                <option value="@item.Id">@item.fullname</option>
         }
         </select>
         <span asp-validation-for="PositionId" class="text-danger"></span>

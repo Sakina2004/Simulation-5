@@ -73,10 +73,11 @@ namespace Simulation_5.Areas.Admin.Controllers
         {
             if (!id.HasValue || id < 1)
                 return BadRequest();
-            var entity=await _context.Workers.Select(x=>x.Id==id).ExecuteDeleteAsync();
+            var entity=await _context.Workers.Where(x=>x.Id==id).ExecuteDeleteAsync();
             if (entity == 0)
                 return NotFound();
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult>Update(int? id,)
     }
 }
